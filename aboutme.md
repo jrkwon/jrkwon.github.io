@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jaerock Kwon. I am an Assistant Professor (2020 - present) in the Electrical and Computer Engineering Department at the University of Michigan - Dearborn. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I was an Assistant (2010 - 2016) and Associate Professor (2016 - 2019) at Kettering Univerisity, Flint, Michigan. I completed my Ph.D. in Computer Engineering at Texas A&M University, College Station, Texas in 2009. My dissertation title is [Acquisition and Mining of the Whole Mouse Brain Microstructure](https://oaktrust.library.tamu.edu/handle/1969.1/ETD-TAMU-2009-08-7049). 
 
-What else do you need?
+This blog will be about AI, Robotics, and anything else that I am interested in.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I currently live in a suburb of Detroit with my wife. 
