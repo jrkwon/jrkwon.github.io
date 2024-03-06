@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: First post
 subtitle: This is the first post
 tags: [test]
