@@ -9,4 +9,4 @@ author: Jaerock Kwon
 This is my first post to test if everything works fine.
 
 LaTex equation:
-y=w\times x + b
+$$y=w\times x + b$$
